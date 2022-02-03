@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadiul-hakim
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning mern stack
+- 👀 I’m interested in Web 3.0 and Blockchain Application Development.
+- 🌱 I’m currently learning About Blockchain.
 
 
 <!---
