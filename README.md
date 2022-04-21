@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadiul-hakim
-- 👀 I’m interested in Web 3.0 and Blockchain Application Development.
-- 🌱 I’m currently learning About Blockchain.
+- 👀 I’m interested in Application Development and Programming.
+- 🌱 I’m currently learning Java Programming.
 
 
 <!---
