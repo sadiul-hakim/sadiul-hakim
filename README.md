@@ -1,5 +1,5 @@
 
-![Image](/Full Sack Web Development.png)
+![Image](https://github.com/sadiul-hakim/sadiul-hakim/blob/main/Full Sack Web Development.png)
 
 - 👋 Hi, I’m @sadiul-hakim
 - 👀 I’m interested in Application Development and Programming.
