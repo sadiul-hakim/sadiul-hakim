@@ -2,12 +2,18 @@
 ![Img](https://github.com/sadiul-hakim/sadiul-hakim/blob/main/Pic.png?raw=true)
 
 # Sadiul Hakim
-*** Computer Programmer and Software Developer. ***
+**_ Computer Programmer and Software Developer. _**
+---
+### My preferred languages are :-
+1. Java
+2. JavaScript
 
-- 👋 Hi, I’m @sadiul-hakim
-- 👀 I’m interested in Application Development and Programming.
-- 🌱 I’m currently learning Java Programming.
-
+### Like👍 :-
+1. To develop software
+2. To solve problems
+3. To study
+4. Contribute Open Source
+5. To talk with people and create network
 
 <!---
 sadiul-hakim/sadiul-hakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
