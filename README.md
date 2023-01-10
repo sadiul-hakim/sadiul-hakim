@@ -2,7 +2,7 @@
 ![Img](https://github.com/sadiul-hakim/sadiul-hakim/blob/main/Pic.png?raw=true)
 
 # Sadiul Hakim
-**_ Computer Programmer and Software Developer. _**
+___Computer Programmer and Software Developer.___
 ---
 ### My preferred languages are :-
 1. Java
