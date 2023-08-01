@@ -17,4 +17,4 @@ ___Computer Programmer and Backend Developer.___
 4. Contribute Open Source
 5. To talk with people and create networks
 
-<p align="center" color="crimson"> Designed by Sadiul Hakim :) </p>
+<p align="center"> Designed by Sadiul Hakim :) </p>
