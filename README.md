@@ -5,8 +5,7 @@
 ___Computer Programmer and Software Developer.___
 ---
 ### My preferred languages are :-
-1. Java
-2. JavaScript
+![language](https://img.shields.io/badge/java-spring_boot-blue)
 
 ### Like👍 :-
 1. To develop software
