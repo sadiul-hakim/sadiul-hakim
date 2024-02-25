@@ -9,7 +9,7 @@ ___Computer Programmer and Backend Developer.___
 ![framework](https://img.shields.io/badge/spring-framework-green)
 ![](https://img.shields.io/badge/spring-boot-blue)
 ![database](https://img.shields.io/badge/sql-mysql-blue)
-![kafka](https://img.shields.io/badge/kafka-black)
+![kafka](https://img.shields.io/badge/kafka-navy)
 
 ### I Like :
 1. To develop software
