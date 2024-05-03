@@ -5,7 +5,7 @@
 ___Computer Programmer and Backend Developer.___
 ---
 ### My preferred technologies are:
-![language](https://img.shields.io/badge/java-17-red)
+![language](https://img.shields.io/badge/java-17+-red)
 ![framework](https://img.shields.io/badge/spring-framework-green)
 ![](https://img.shields.io/badge/spring-boot-blue)
 ![database](https://img.shields.io/badge/sql-mysql-blue)
