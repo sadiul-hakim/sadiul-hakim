@@ -11,7 +11,6 @@ ___Computer Programmer and Backend Developer.___
 ![](https://img.shields.io/badge/spring-security-green)
 ![database](https://img.shields.io/badge/sql-mysql-blue)
 ![database](https://img.shields.io/badge/sql-postgres-megento)
-# ![kafka](https://img.shields.io/badge/kafka-stream-navy)
 
 ### I Like :
 1. To develop software
