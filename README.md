@@ -5,11 +5,13 @@
 ___Computer Programmer and Backend Developer.___
 ---
 ### My preferred technologies are:
-![language](https://img.shields.io/badge/java-17+-red)
+![language](https://img.shields.io/badge/java-21+-red)
 ![framework](https://img.shields.io/badge/spring-framework-green)
 ![](https://img.shields.io/badge/spring-boot-blue)
+![](https://img.shields.io/badge/spring-security-green)
 ![database](https://img.shields.io/badge/sql-mysql-blue)
-![kafka](https://img.shields.io/badge/kafka-stream-navy)
+![database](https://img.shields.io/badge/sql-postgres-megento)
+# ![kafka](https://img.shields.io/badge/kafka-stream-navy)
 
 ### I Like :
 1. To develop software
