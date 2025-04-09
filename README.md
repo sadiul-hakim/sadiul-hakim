@@ -17,4 +17,16 @@ ___Computer Programmer and Backend Developer.___
 4. Contribute Open Source
 5. To talk with people and create networks
 
+## Taking Notes
+1. [Spring Batch](https://github.com/sadiul-hakim/HK_learn_spring_batch)
+2. [Spring Security](https://github.com/sadiul-hakim/HK_learn_spring_security)
+3. [Spring Gateway and Eureka Server](https://github.com/sadiul-hakim/HK_Spring_EurekaServerAnd_Gateway)
+4. [Spring Data Jpa](https://github.com/sadiul-hakim/HK_spring_data_jpa)
+5. [Spring Boot Starter template](https://github.com/sadiul-hakim/Spring-Boot-Starter-Template)
+6. [Spring WebSocket Practise](https://github.com/sadiul-hakim/mvc-chat-app)
+7. [Web Mvc Streaming](https://github.com/sadiul-hakim/web-mvc-streaming)
+8. [Video Streaming](https://github.com/sadiul-hakim/Video-Streaming)
+9. [Hakim Code Collection](https://github.com/sadiul-hakim/Hakim-Code-Collection)
+10. [Spring MVC PWA app](https://github.com/sadiul-hakim/TodoPWA)
+
 <p align="center"> Designed by Sadiul Hakim :) </p>
