@@ -5,10 +5,66 @@
 ___Computer Programmer and Backend Developer.___
 ---
 ### My preferred technologies are:
-![language](https://img.shields.io/badge/java-21+-red)
-![framework](https://img.shields.io/badge/spring-framework-green)
-![database](https://img.shields.io/badge/sql-mysql-blue)
-![database](https://img.shields.io/badge/sql-postgres-megento)
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#sadiul-hakim">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Python" />
+      </a>
+    </td>
+     <td align="center" width="98">
+      <a href="#Hasan-TechNinja-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+    </td>
+    <td align="center" width="98">
+    <a href="#Hasan-TechNinja-tech">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+    </a>
+  </td>
+    <td align="center" width="98">
+      <a href="#Hasan-TechNinja-tech">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Django" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#Hasan-TechNinja-tech">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Tailwind" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#Hasan-TechNinja-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Bootstrap" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#Hasan-TechNinja-tech">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#Hasan-TechNinja-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="PostgreSQL" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#Hasan-TechNinja-tech">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">Java</td>
+    <td align="center" width="98">HTML</td>
+    <td align="center" width="98">CSS</td>
+    <td align="center" width="98">Spring Framework</td>
+    <td align="center" width="98">Bootstrap</td>
+    <td align="center" width="98">MySql</td>
+    <td align="center" width="98">PostgreSQL</td>
+    <td align="center" width="98">git</td>
+    <td align="center" width="98">docker</td>
+  </tr>
+</table>
 
 ### I Like :
 1. To develop software
@@ -17,7 +73,13 @@ ___Computer Programmer and Backend Developer.___
 4. Contribute Open Source
 5. To talk with people and create networks
 
-## Taking Notes
+### 📈 GitHub Overview
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark)
+![Streak](https://streak-stats.demolab.com?user=sadiul-hakim&theme=github-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiul-hakim&layout=compact&theme=github_dark)
+
+## Interesting Projects
 1. [Spring Batch](https://github.com/sadiul-hakim/HK_learn_spring_batch)
 2. [Spring Security](https://github.com/sadiul-hakim/HK_learn_spring_security)
 3. [Spring Gateway and Eureka Server](https://github.com/sadiul-hakim/HK_Spring_EurekaServerAnd_Gateway)
@@ -30,11 +92,5 @@ ___Computer Programmer and Backend Developer.___
 10. [Spring MVC PWA app](https://github.com/sadiul-hakim/TodoPWA)
 11. [Job Runner](https://github.com/sadiul-hakim/HK_job_runner)
 12. [Starter Template](https://github.com/sadiul-hakim/Spring-Boot-Starter-Template)
-
-### 📈 GitHub Overview
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark)
-![Streak](https://streak-stats.demolab.com?user=sadiul-hakim&theme=github-dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiul-hakim&layout=compact&theme=github_dark)
 
 <p align="center"> Designed by Sadiul Hakim :) </p>
