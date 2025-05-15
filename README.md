@@ -66,18 +66,18 @@ ___Computer Programmer and Backend Developer.___
   </tr>
 </table>
 
+### 📈 GitHub Overview
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark)
+![Streak](https://streak-stats.demolab.com?user=sadiul-hakim&theme=github-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiul-hakim&layout=compact&theme=github_dark)
+
 ### I Like :
 1. To develop software
 2. To solve problems
 3. To study
 4. Contribute Open Source
 5. To talk with people and create networks
-
-### 📈 GitHub Overview
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark)
-![Streak](https://streak-stats.demolab.com?user=sadiul-hakim&theme=github-dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiul-hakim&layout=compact&theme=github_dark)
 
 ## Interesting Projects
 1. [Spring Batch](https://github.com/sadiul-hakim/HK_learn_spring_batch)
