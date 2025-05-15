@@ -31,6 +31,8 @@ ___Computer Programmer and Backend Developer.___
 11. [Job Runner](https://github.com/sadiul-hakim/HK_job_runner)
 12. [Starter Template](https://github.com/sadiul-hakim/Spring-Boot-Starter-Template)
 
+### 📈 GitHub Overview
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark)
+![My Github](https://github-readme-streak-stats.herokuapp.com/?user=sadiul-hakim&theme=tokyonight)
 
 <p align="center"> Designed by Sadiul Hakim :) </p>
