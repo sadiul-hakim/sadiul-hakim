@@ -34,5 +34,6 @@ ___Computer Programmer and Backend Developer.___
 ### 📈 GitHub Overview
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark)
 ![My Github](https://github-readme-streak-stats.herokuapp.com/?user=sadiul-hakim&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sadiul-hakim&theme=github-dark)
 
 <p align="center"> Designed by Sadiul Hakim :) </p>
