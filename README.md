@@ -2,8 +2,8 @@
 ![Img](https://github.com/sadiul-hakim/sadiul-hakim/blob/main/Pic.png?raw=true)
 
 # Sadiul Hakim
-___Computer Programmer and Backend Developer.___
----
+***Computer Programmer and Backend Developer.***
+
 ### My preferred technologies are:
 <table>
   <tr>
