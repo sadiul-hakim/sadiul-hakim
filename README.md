@@ -9,56 +9,44 @@
   <tr>
     <td align="center" width="98">
       <a href="#sadiul-hakim">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Python" />
-      </a>
-    </td>
-     <td align="center" width="98">
-      <a href="#Hasan-TechNinja-tech">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       </a>
     </td>
     <td align="center" width="98">
-    <a href="#Hasan-TechNinja-tech">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-    </a>
-  </td>
-    <td align="center" width="98">
-      <a href="#Hasan-TechNinja-tech">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Django" />
+      <a href="#sadiul-hakim-tech">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      </a>
+    </td>
+	<td align="center" width="98">
+      <a href="#sadiul-hakim-tech">
+        <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
+      </a>
+    </td>
+	<td align="center" width="98">
+      <a href="#sadiul-hakim-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Mysql" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#Hasan-TechNinja-tech">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Tailwind" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#Hasan-TechNinja-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Bootstrap" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#Hasan-TechNinja-tech">
+      <a href="#sadiul-hakim-tech">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#Hasan-TechNinja-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="PostgreSQL" />
+      <a href="#sadiul-hakim-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#Hasan-TechNinja-tech">
+      <a href="#sadiul-hakim-tech">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="98">Java</td>
-    <td align="center" width="98">HTML</td>
-    <td align="center" width="98">CSS</td>
+    <td align="center" width="98">Jpa/Hibernate</td>
     <td align="center" width="98">Spring Framework</td>
-    <td align="center" width="98">Bootstrap</td>
     <td align="center" width="98">MySql</td>
     <td align="center" width="98">PostgreSQL</td>
     <td align="center" width="98">git</td>
