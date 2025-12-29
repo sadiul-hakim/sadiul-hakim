@@ -22,6 +22,16 @@
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
       </a>
     </td>
+	  <td align="center" width="98">
+      <a href="#sadiul-hakim">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      </a>
+    </td>
+	   <td align="center" width="98">
+      <a href="#sadiul-hakim-tech">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      </a>
+    </td>
 	<td align="center" width="98">
       <a href="#sadiul-hakim-tech">
         <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
@@ -51,6 +61,8 @@
   <tr>
     <td align="center" width="98">Java</td>
 	<td align="center" width="98">Spring Framework</td>
+	  <td align="center" width="98">PHP</td>
+	<td align="center" width="98">Laravel</td>
     <td align="center" width="98">Jpa/Hibernate</td>
     <td align="center" width="98">MySql</td>
     <td align="center" width="98">PostgreSQL</td>
