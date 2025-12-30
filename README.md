@@ -73,9 +73,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Overview </b>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark)
-![Streak](https://streak-stats.demolab.com?user=sadiul-hakim&theme=github-dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiul-hakim&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=sadiul-hakim&show_icons=true&theme=github_dark&cache_seconds=1800)
+![Streak](https://streak-stats.demolab.com?user=sadiul-hakim&theme=github-dark&hide_border=false&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiul-hakim&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ### I Like :
 1. To develop software
