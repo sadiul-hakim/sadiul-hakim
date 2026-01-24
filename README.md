@@ -8,6 +8,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-SadiulHakim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sadiulhakim@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-SadiulHakim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiul-hakim-709387233/)
+![Profile Views](https://komarev.com/ghpvc/?username=mr-punyapal&label=👁️)
 
 ### My preferred technologies are:
 <table>
