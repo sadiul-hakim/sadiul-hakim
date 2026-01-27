@@ -1,5 +1,5 @@
 
-![Img](https://github.com/sadiul-hakim/sadiul-hakim/blob/main/Pic.png?raw=true)
+![Img](https://github.com/sadiul-hakim/sadiul-hakim/blob/main/New Stack.png?raw=true)
 
 # Sadiul Hakim
 <p align="center">
