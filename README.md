@@ -30,7 +30,7 @@
     </td>
 	   <td align="center" width="98">
       <a href="#sadiul-hakim-tech">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
     </td>
 	<td align="center" width="98">
@@ -63,7 +63,7 @@
     <td align="center" width="98">Java</td>
 	<td align="center" width="98">Spring Framework</td>
 	  <td align="center" width="98">PHP</td>
-	<td align="center" width="98">Laravel</td>
+	<td align="center" width="98">Python</td>
     <td align="center" width="98">Jpa/Hibernate</td>
     <td align="center" width="98">MySql</td>
     <td align="center" width="98">PostgreSQL</td>
