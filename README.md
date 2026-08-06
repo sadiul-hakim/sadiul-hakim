@@ -35,12 +35,12 @@
     </td>
 	<td align="center" width="98">
       <a href="#sadiul-hakim-tech">
-        <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
       </a>
     </td>
 	<td align="center" width="98">
       <a href="#sadiul-hakim-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Mysql" />
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       </a>
     </td>
     <td align="center" width="98">
@@ -64,8 +64,8 @@
 	<td align="center" width="98">Spring Framework</td>
 	  <td align="center" width="98">PHP</td>
 	<td align="center" width="98">Python</td>
-    <td align="center" width="98">Jpa/Hibernate</td>
-    <td align="center" width="98">MySql</td>
+    <td align="center" width="98">Django</td>
+    <td align="center" width="98">Redis</td>
     <td align="center" width="98">PostgreSQL</td>
     <td align="center" width="98">git</td>
     <td align="center" width="98">docker</td>
