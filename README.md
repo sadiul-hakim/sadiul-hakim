@@ -23,11 +23,6 @@
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
       </a>
     </td>
-	  <td align="center" width="98">
-      <a href="#sadiul-hakim">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      </a>
-    </td>
 	   <td align="center" width="98">
       <a href="#sadiul-hakim-tech">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
@@ -62,7 +57,6 @@
   <tr>
     <td align="center" width="98">Java</td>
 	<td align="center" width="98">Spring Framework</td>
-	  <td align="center" width="98">PHP</td>
 	<td align="center" width="98">Python</td>
     <td align="center" width="98">Django</td>
     <td align="center" width="98">Redis</td>
@@ -84,26 +78,5 @@
 3. To study
 4. Contribute Open Source
 5. To talk with people and create networks
-
-## Interesting Projects
-1. [Spring Batch](https://github.com/sadiul-hakim/HK_learn_spring_batch)
-2. [Spring Security](https://github.com/sadiul-hakim/HK_learn_spring_security)
-3. [Spring Gateway and Eureka Server](https://github.com/sadiul-hakim/HK_Spring_EurekaServerAnd_Gateway)
-4. [Spring Data Jpa](https://github.com/sadiul-hakim/HK_spring_data_jpa)
-5. [Spring Boot Starter template](https://github.com/sadiul-hakim/Spring-Boot-Starter-Template)
-6. [Spring WebSocket Practise](https://github.com/sadiul-hakim/mvc-chat-app)
-7. [Web Mvc Streaming](https://github.com/sadiul-hakim/web-mvc-streaming)
-8. [Video Streaming](https://github.com/sadiul-hakim/Video-Streaming)
-9. [Hakim Code Collection](https://github.com/sadiul-hakim/Hakim-Code-Collection)
-10. [Spring MVC PWA app](https://github.com/sadiul-hakim/TodoPWA)
-11. [Job Runner](https://github.com/sadiul-hakim/HK_job_runner)
-12. [Starter Template](https://github.com/sadiul-hakim/Spring-Boot-Starter-Template)
-13. [Chat Application](https://github.com/sadiul-hakim/mvc-chat-app)
-14. [National Product Rating](https://github.com/sadiul-hakim/NPR)
-15. [Expanse Tracker Rest Api](https://github.com/sadiul-hakim/ExpanseTracker)
-16. [Mass/Hostel Management Backend](https://github.com/sadiul-hakim/Mass-Management-backend)
-17. [Mass/Hostel Management UI](https://github.com/sadiul-hakim/Mass-Management-UI)
-18. [Ecommerce](https://github.com/sadiul-hakim/Big-ECommerce)
-19. [Spring AOP](https://github.com/sadiul-hakim/HK_spring_aop)
 
 <p align="center"> Designed by Sadiul Hakim :) </p>
